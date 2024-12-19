@@ -4,9 +4,9 @@
 1. Files circle.py and square.py added
 ## Commit `d078c8d9ee6155f3cb0e577d28d337b791de28e2`
 1. Docs added.
-## Commit `84c85030c8260620c9b8b09d5232ad193bf8bd73`
+## Commit `5341b80455376cd68b4fad5a07c4c81f7dd8de42`
 1. File rectangle.py added.
-## Commit `d6eaf2dc1a9fdc2725dc5117085934ca79361359`
+## Commit `58992c9e4c4462f1bd59b8e786e4321b2330e714`
 1. File triangle.py added.
 2. Fixed a bug in the file rectangle.py
 
