@@ -9,4 +9,5 @@
 ## Commit `58992c9e4c4462f1bd59b8e786e4321b2330e714`
 1. File triangle.py added.
 2. Fixed a bug in the file rectangle.py
-
+## Commit `766db56b39b444aa22ebbc563656e4adb21fd02c`
+1. geometric_unittests.py added.
